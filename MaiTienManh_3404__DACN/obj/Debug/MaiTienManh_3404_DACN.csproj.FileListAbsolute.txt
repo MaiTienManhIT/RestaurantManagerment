@@ -1,0 +1,57 @@
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\bin\Debug\QuanLyNhaHang.mdf
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\bin\Debug\QuanLyNhaHang_log.ldf
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\MaiTienManh_3404_DACN.csproj.AssemblyReference.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\MaiTienManh_3404_DACN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_CTHoaDon.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_DanhMuc.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_DatBan.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_HoaDon.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_Main.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_MonAn.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.frm_DangNhap.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\MaiTienManh_3404_DACN.csproj.GenerateResource.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\MaiTienManh_3404_DACN.csproj.CoreCompileInputs.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\ADO\ADO\obj\Debug\ADO.pdb
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\QuanLyNhaHang.mdf
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\QuanLyNhaHang_log.ldf
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.exe.config
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.exe
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.pdb
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.AssemblyReference.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_CTHoaDon.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DanhMuc.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DatBan.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_HoaDon.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_Main.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_MonAn.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DangNhap.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.Properties.Resources.resources
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.GenerateResource.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.CoreCompileInputs.cache
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.exe
+C:\Users\Tien Manh\Desktop\LapTrinh .NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.pdb
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\QuanLyNhaHang.mdf
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\QuanLyNhaHang_log.ldf
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.exe.config
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.exe
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\bin\Debug\ADO.pdb
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.AssemblyReference.cache
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_CTHoaDon.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DanhMuc.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DatBan.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_HoaDon.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_Main.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_MonAn.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.frm_DangNhap.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.Properties.Resources.resources
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.GenerateResource.cache
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\MaiTienManh_3404_DACN.csproj.CoreCompileInputs.cache
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.exe
+D:\Laptrinh NET\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\MaiTienManh_3404__DACN\obj\Debug\ADO.pdb
